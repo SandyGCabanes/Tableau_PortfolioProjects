@@ -1,6 +1,6 @@
 # Tableau_PortfolioProjects
 
-## [Link to my Tableau Public page] (https://public.tableau.com/app/profile/sandy.g.cabanes/vizzes)
+## [Link to my Tableau Public page](https://public.tableau.com/app/profile/sandy.g.cabanes/vizzes)
 
 ### This repository contains links to my Tableau Public uploads.<br>
 
