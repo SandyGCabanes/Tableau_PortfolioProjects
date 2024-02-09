@@ -6,5 +6,5 @@
 
 - [YouTube_Channel_Performance_Dashboard](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_YouTubeChannelPerformanceDashboard/YTChannelPerformance?publish=yes)
 <br>
-- [BRitish_Airways_Reviews](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_BritishAirwaysReviews/Dashboard1?publish=yes)
-- <br>
+- [British_Airways_Reviews](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_BritishAirwaysReviews/Dashboard1?publish=yes)
+<br>
