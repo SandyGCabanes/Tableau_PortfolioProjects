@@ -1,4 +1,4 @@
-# Tableau_PortfolioProjects
+# Tableau_Portfolio_Projects
 
 ## [Link to my Tableau Public page](https://public.tableau.com/app/profile/sandy.g.cabanes/vizzes)
 
