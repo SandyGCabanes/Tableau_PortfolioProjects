@@ -2,7 +2,7 @@
 
 ## [Link to my Tableau Public page](https://public.tableau.com/app/profile/sandy.g.cabanes/vizzes)
 
-### This repository contains links to my Tableau Public uploads.<br>
+### This repository contains links to my Tableau Projects, which I uploaded to the Tableau Public website, where people can showcase their work.<br>
 
 - [YouTube_Channel_Performance_Dashboard](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_YouTubeChannelPerformanceDashboard/YTChannelPerformance?publish=yes)
 <br>
