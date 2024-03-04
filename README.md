@@ -6,10 +6,8 @@
 
 - [YouTube_Channel_Performance_Dashboard](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_YouTubeChannelPerformanceDashboard/YTChannelPerformance?publish=yes)
 <br>
-
 - [British_Airways_Reviews](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_BritishAirwaysReviews/Dashboard1?publish=yes)
 <br>
-
 - [Air BnB 2023 Prices Toronto](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/PortfolioProject_AirBnB2023Toronto/Dashboard1)
   
 
